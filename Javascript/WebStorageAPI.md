@@ -476,7 +476,3 @@ should generally not be stored in Local Storage because JavaScript can access it
 ---
 
 > JavaScript automatically converts the object into a string using `.toString()`
-
-![alt text](./Images/image-1.png)
-![alt text](./Images/image.png)
-![alt text](./Images/image-2.png)
